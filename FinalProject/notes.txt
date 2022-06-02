@@ -1,0 +1,5 @@
+CATATAN:
+- Scaling bmi dan avg_glucose_level, bisa ambil per 50
+- Visualisasi persebaran data pada feature
+- Cek processing time
+- Coba test beberapa kemungkinan, yaitu DROP N/A saja, DROP Unknown, DROP keduanya, TANPA DROP
